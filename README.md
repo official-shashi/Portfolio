@@ -1,6 +1,7 @@
 # portfolio
 
 A new Flutter project.
+Flutter Version - 3.10.6
 
 ## Getting Started
 
